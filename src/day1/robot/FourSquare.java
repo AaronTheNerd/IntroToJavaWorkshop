@@ -30,9 +30,9 @@ deadpool.turn(90);
 	void drawSquare() {
 		
 for (int i = 0; i < 4; i++) {
-	deadpool.move(150);
-	deadpool.turn(90);
-deadpool.move(150);
+	deadpool.move(75);
+	deadpool.turn(270);
+deadpool.move(75);
 }
 		
 		

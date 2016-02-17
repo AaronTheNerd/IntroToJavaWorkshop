@@ -17,9 +17,9 @@ deadpool.setSpeed(10);
 for (int i = 0; i < 666; i++) {
 	deadpool.setRandomPenColor();
 	// 6. Move the robot 5 times the current line number you are drawing (5*i)
-	deadpool.move(5*i);
+	deadpool.move(12*i);
 				// 2. Turn the robot 1/3 of 360 degrees to the right
-		deadpool.turn(666);
+		deadpool.turn(69);
 				// 8. Change the number of sides to 7 (don’t add a new line of code for this one!)
 		
 				// 9. Set the pen width to i

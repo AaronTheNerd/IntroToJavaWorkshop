@@ -23,7 +23,7 @@ for (int i = 0; i < 60; i++) {
 				// 5. call your drawTriangle() method using your length variable
 		drawTriangle(variable);
 				// 10. Turn the tortoise 6 degrees to the right
-		deadpool.turn(6);
+		deadpool.turn(180);
 }
 			
 	}

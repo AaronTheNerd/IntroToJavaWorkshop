@@ -31,7 +31,7 @@ for (int i = 0; i < 10000000; i++) {
 	// 6. Turn the robot the amount in your angle variable
 deadpool.turn(angle);
 	// 11. Turn the robot one more degree
-deadpool.turn(12);
+deadpool.turn(120);
 }
 	
 
