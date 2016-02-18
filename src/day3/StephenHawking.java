@@ -14,8 +14,8 @@ public class StephenHawking {
 		// 3. call the speak method below and send it the sentence
 		
 		// 4. repeat steps 2 and 3 a lot of times
-			for (int i = 0; i < 1; i++) {
-				speak(""+name);
+			for (int i = 0; i < 100; i++) {
+				speak("i dont care");
 			}
 			
 			
